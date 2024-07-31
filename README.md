@@ -18,4 +18,6 @@
 很抱歉，但在未来会考虑公开。
 
 ### 用户操作模块开发完成
+目前已完成，后续可能会添加
+
 ![image](https://github.com/user-attachments/assets/ea27252f-731e-4ae8-978c-ddc7ca9306b5)
